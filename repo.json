@@ -1,0 +1,8 @@
+{
+  "name": "Anculz Samehadaku",
+  "description": "Samehadaku anime provider for CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/syamsuldtn39-dot/Anculz-Repo/main/plugins.json"
+  ]
+}
