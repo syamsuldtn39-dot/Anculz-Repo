@@ -1,0 +1,22 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=samehadaku.how&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/syamsuldtn39-dot/Anculz-Repo",
+    "fileSize": 13000,
+    "status": 1,
+    "language": "id",
+    "authors": [
+      "Syamsul"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "SamehadakuProvider",
+    "description": "Samehadaku anime provider",
+    "url": "https://raw.githubusercontent.com/syamsuldtn39-dot/Anculz-Repo/main/SamehadakuProvider.cs3",
+    "name": "Samehadaku"
+  }
+]
